@@ -10,3 +10,12 @@
 - annual precipitation - bioclim12
   - http://www.worldclim.org/bioclim
   - They are the standard 19 WorldClim Bioclimatic variables for WorldClim version 2. They are the average for the years 1970-2000, with resolution of 30sec (1km)
+
+- popdens - Population Density 2015 (persons/sq km)
+  - Check readme in zip file for more info
+  - http://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-density-rev10
+  - Citation: Center for International Earth Science Information Network - CIESIN - Columbia University. 2017. Gridded Population of the World, Version 4 (GPWv4): Population Density, Revision 10. Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC). https://doi.org/10.7927/H4DZ068D. Accessed 21 Aug 2018.
+  
+- Elevation (meters) 2000
+  - http://opentopo.sdsc.edu/raster?opentopoID=OTSRTM.082015.4326.1
+  - 
